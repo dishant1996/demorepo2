@@ -19,6 +19,7 @@ namespace HelloWorld
         {
             method1();
             Console.writeline("hello world");
+            console.writeline("hi guys");
 
         }
 
